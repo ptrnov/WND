@@ -1,0 +1,158 @@
+[Root]
+Most Recent Package=PayrollSys
+
+
+[Package|PayrollSys|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\CODING\VISUALBASIC\Payroll\WANINDO\Installer\Install Baru\baru lagi
+
+[Package|PayrollSys|Configure DAO ISAMs]
+Applicable=No
+
+[Package|PayrollSys|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|PayrollSys|Files Found]
+
+[Package|PayrollSys|Files Released]
+
+[Package|PayrollSys|Missing Dependency Information]
+C:\Windows\SysWOW64\vsrpt8.ocx=
+C:\Windows\SysWOW64\vsprint8.ocx=
+C:\Program Files (x86)\Codejock Software\ActiveX\Xtreme SuitePro ActiveX v13.2.1\Bin\Codejock.PropertyGrid.v13.2.1.ocx=
+C:\Program Files (x86)\Codejock Software\ActiveX\Xtreme SuitePro ActiveX v13.2.1\Bin\Codejock.Markup.v13.2.1.ocx=
+C:\Program Files (x86)\Codejock Software\ActiveX\Xtreme SuitePro ActiveX v13.2.1\Bin\Codejock.TaskPanel.v13.2.1.ocx=
+C:\Program Files (x86)\Codejock Software\ActiveX\Xtreme SuitePro ActiveX v13.2.1\Bin\Codejock.Controls.v13.2.1.ocx=
+C:\Program Files (x86)\Codejock Software\ActiveX\Xtreme SuitePro ActiveX v13.2.1\Bin\Codejock.CommandBars.v13.2.1.ocx=
+C:\Program Files (x86)\Microsoft Office\Office14\EXCEL.EXE=
+C:\Windows\SysWOW64\MSStdFmt.dll=
+C:\Program Files (x86)\Developer Express Inc\XpressQuantumGrid\dXSBar.dll=
+C:\Program Files (x86)\Developer Express Inc\XpressQuantumGrid\dXPSystm.dll=
+C:\Windows\SysWOW64\msado25.tlb=
+C:\Program Files (x86)\Developer Express Inc\XpressQuantumGrid\DXDBGrid.dll=
+C:\Windows\System32\IPHLPAPI.DLL=
+
+[Package|PayrollSys|Out-of-Date Dependency Information]
+C:\Windows\SysWOW64\Richtx32.ocx=
+C:\Windows\SysWOW64\mscomct2.ocx=
+C:\Windows\SysWOW64\tabctl32.ocx=
+C:\Windows\SysWOW64\MSCOMCTL.OCX=
+
+[Package|PayrollSys|Files Added]
+
+[Package|PayrollSys|Files Removed]
+c:\windows\system32\msvbvm60.dll=
+c:\windows\system32\oleaut32.dll=
+c:\windows\system32\olepro32.dll=
+c:\windows\system32\asycfilt.dll=
+c:\windows\system32\stdole2.tlb=
+c:\program files (x86)\microsoft visual studio\vb98\wizards\pdwizard\redist\comcat.dll=
+c:\program files (x86)\microsoft office\office14\excel.exe=
+
+[Package|PayrollSys|Files In Project]
+C:\Windows\System32\msvbvm60.dll=No
+C:\Windows\System32\oleaut32.dll=No
+C:\Windows\System32\olepro32.dll=No
+C:\Windows\System32\asycfilt.dll=No
+C:\Windows\System32\stdole2.tlb=No
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+C:\Windows\System32\IPHLPAPI.DLL=Yes
+C:\Program Files (x86)\Developer Express Inc\XpressQuantumGrid\DXDBGrid.dll=Yes
+C:\Windows\SysWOW64\msado25.tlb=Yes
+C:\Program Files (x86)\Developer Express Inc\XpressQuantumGrid\dXPSystm.dll=Yes
+C:\Program Files (x86)\Developer Express Inc\XpressQuantumGrid\dXSBar.dll=Yes
+C:\Windows\SysWOW64\MSStdFmt.dll=Yes
+C:\Program Files (x86)\Microsoft Office\Office14\EXCEL.EXE=No
+C:\Windows\SysWOW64\MSCOMCTL.OCX=Yes
+C:\Windows\SysWOW64\tabctl32.ocx=Yes
+C:\Windows\SysWOW64\MSADODC.OCX=Yes
+C:\Windows\SysWOW64\mscomct2.ocx=Yes
+C:\Program Files (x86)\Codejock Software\ActiveX\Xtreme SuitePro ActiveX v13.2.1\Bin\Codejock.CommandBars.v13.2.1.ocx=Yes
+C:\Program Files (x86)\Codejock Software\ActiveX\Xtreme SuitePro ActiveX v13.2.1\Bin\Codejock.Controls.v13.2.1.ocx=Yes
+C:\Program Files (x86)\Codejock Software\ActiveX\Xtreme SuitePro ActiveX v13.2.1\Bin\Codejock.TaskPanel.v13.2.1.ocx=Yes
+C:\Windows\SysWOW64\MSINET.OCX=Yes
+C:\Windows\SysWOW64\Richtx32.ocx=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Program Files (x86)\Codejock Software\ActiveX\Xtreme SuitePro ActiveX v13.2.1\Bin\Codejock.Markup.v13.2.1.ocx=Yes
+C:\Program Files (x86)\Codejock Software\ActiveX\Xtreme SuitePro ActiveX v13.2.1\Bin\Codejock.PropertyGrid.v13.2.1.ocx=Yes
+C:\Windows\SysWOW64\vsprint8.ocx=Yes
+C:\Windows\SysWOW64\vsrpt8.ocx=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\CODING\VISUALBASIC\Payroll\WANINDO\PayrollSys\form\Payroll_Client.exe=Yes
+
+[Package|PayrollSys|Configure Registry Files]
+Applicable=No
+
+[Package|PayrollSys|Configure Remote Servers]
+Applicable=No
+
+[Package|PayrollSys|Install Locations]
+D:\CODING\VISUALBASIC\Payroll\WANINDO\PayrollSys\form\Payroll.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\IPHLPAPI.DLL=$(WinSysPath)
+C:\Program Files (x86)\Developer Express Inc\XpressQuantumGrid\DXDBGrid.dll=$(WinSysPath)
+C:\Windows\SysWOW64\msado25.tlb=$(WinSysPath)
+C:\Program Files (x86)\Developer Express Inc\XpressQuantumGrid\dXPSystm.dll=$(WinSysPath)
+C:\Program Files (x86)\Developer Express Inc\XpressQuantumGrid\dXSBar.dll=$(WinSysPath)
+C:\Windows\SysWOW64\MSStdFmt.dll=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Office\Office14\EXCEL.EXE=$(AppPath)
+C:\Windows\SysWOW64\MSCOMCTL.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\tabctl32.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\MSADODC.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\mscomct2.ocx=$(WinSysPath)
+C:\Program Files (x86)\Codejock Software\ActiveX\Xtreme SuitePro ActiveX v13.2.1\Bin\Codejock.CommandBars.v13.2.1.ocx=$(WinSysPath)
+C:\Program Files (x86)\Codejock Software\ActiveX\Xtreme SuitePro ActiveX v13.2.1\Bin\Codejock.Controls.v13.2.1.ocx=$(WinSysPath)
+C:\Program Files (x86)\Codejock Software\ActiveX\Xtreme SuitePro ActiveX v13.2.1\Bin\Codejock.TaskPanel.v13.2.1.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\MSINET.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\Richtx32.ocx=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Codejock Software\ActiveX\Xtreme SuitePro ActiveX v13.2.1\Bin\Codejock.Markup.v13.2.1.ocx=$(WinSysPath)
+C:\Program Files (x86)\Codejock Software\ActiveX\Xtreme SuitePro ActiveX v13.2.1\Bin\Codejock.PropertyGrid.v13.2.1.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\vsprint8.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\vsrpt8.ocx=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\CODING\VISUALBASIC\Payroll\WANINDO\PayrollSys\form\Payroll_Client.exe=$(AppPath)
+
+[Package|PayrollSys|Configure Shared Files]
+Applicable=Yes
+D:\CODING\VISUALBASIC\Payroll\WANINDO\PayrollSys\form\Payroll.exe=Yes
+C:\Program Files (x86)\Microsoft Office\Office14\EXCEL.EXE=Yes
+D:\CODING\VISUALBASIC\Payroll\WANINDO\PayrollSys\form\Payroll_Client.exe=Yes
+
+[Package|PayrollSys|Distribution]
+Type=single
+Size=
+Title=PayrollSys
+
+[Package|PayrollSys|Package]
+PackageFolder=D:\CODING\VISUALBASIC\Payroll\WANINDO\Installer\Install Baru\baru lagi
+ProjectFolder=D:\CODING\VISUALBASIC\Payroll\WANINDO\PayrollSys\form
+ServerSideCab=
+File1=D:\CODING\VISUALBASIC\Payroll\WANINDO\Installer\Install Baru\baru lagi\setup.exe
+File2=D:\CODING\VISUALBASIC\Payroll\WANINDO\Installer\Install Baru\baru lagi\Setup.Lst
+File3=D:\CODING\VISUALBASIC\Payroll\WANINDO\Installer\Install Baru\baru lagi\Payroll_Client.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|PayrollSys|IconGroups]
+Group0=PayrollSys
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|PayrollSys|PayrollSys]
+Icon1=Payroll.exe
+Title1=PayrollSys
+StartIn1=$(AppPath)
+Key1=Icon1

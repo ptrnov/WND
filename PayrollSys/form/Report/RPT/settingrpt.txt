@@ -1,0 +1,7 @@
+===============
+= ptr.nov xml =
+===============
+vsprint8.ocx = [VsPrinter]= vp
+vsrpt8.ocx   = [VsReport] = vsr
+
+SHOW FULL PROCESSLIST

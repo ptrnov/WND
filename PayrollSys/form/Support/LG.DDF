@@ -1,0 +1,42 @@
+.OPTION EXPLICIT
+.Set Cabinet=off
+.Set Compress=off
+.Set MaxDiskSize=CDROM
+.Set ReservePerCabinetSize=6144
+.Set DiskDirectoryTemplate=".."
+.Set CompressionType=MSZIP
+.Set CompressionLevel=7
+.Set CompressionMemory=21
+.Set CabinetNameTemplate="LG - Beta 1.0.CAB"
+"Setup.Lst"
+"setup.exe"
+.Set Cabinet=on
+.Set Compress=on
+"LG - Beta 1.0.exe"
+"msvbvm60.dll"
+"oleaut32.dll"
+"olepro32.dll"
+"asycfilt.dll"
+"stdole2.tlb"
+"COMCAT.DLL"
+"IPHLPAPI.DLL"
+"DXDBGrid.dll"
+"msado25.tlb"
+"dXPSystm.dll"
+"dXSBar.dll"
+"EXCEL.EXE"
+"MSSTDFMT.DLL"
+"MSCOMCTL.OCX"
+"TABCTL32.OCX"
+"MSADODC.OCX"
+"MSCOMCT2.OCX"
+"Codejock.CommandBars.v13.2.1.ocx"
+"Codejock.Controls.v13.2.1.ocx"
+"Codejock.TaskPanel.v13.2.1.ocx"
+"Codejock.ReportControl.v13.2.1.ocx"
+"MSINET.OCX"
+"RICHTX32.OCX"
+"RICHED32.DLL"
+"SETUP1.EXE"
+"VB6STKIT.DLL"
+"ST6UNST.EXE"

@@ -1,0 +1,372 @@
+Line 29: Class XtremeSuiteControls.GroupBox of control GroupBox5 was not a loaded control class.
+Line 51: Class XtremeSuiteControls.ComboBox of control GlobalCmb was not a loaded control class.
+Line 65: Class XtremeSuiteControls.ComboBox of control GlobalCmb was not a loaded control class.
+Line 122: Class XtremeSuiteControls.GroupBox of control GroupBox4 was not a loaded control class.
+Line 135: Class XtremeSuiteControls.GroupBox of control GroupBox1 was not a loaded control class.
+Line 146: Class XtremeSuiteControls.GroupBox of control GroupBox3 was not a loaded control class.
+Line 168: Class XtremeSuiteControls.DateTimePicker of control Tgl was not a loaded control class.
+Line 180: Class XtremeSuiteControls.DateTimePicker of control Tgl was not a loaded control class.
+Line 254: Class XtremeSuiteControls.PushButton of control cmdProcess was not a loaded control class.
+Line 268: Class XtremeSuiteControls.ComboBox of control CmbAbsensi was not a loaded control class.
+Line 284: Class XtremeSuiteControls.ComboBox of control CmbAbsensi was not a loaded control class.
+Line 345: Class XtremeSuiteControls.TabControl of control TabControl1 was not a loaded control class.
+Line 408: Class XtremeSuiteControls.ProgressBar of control ProgressBar1 was not a loaded control class.
+Line 420: Class XtremeSuiteControls.DateTimePicker of control DFilter was not a loaded control class.
+Line 434: Class XtremeSuiteControls.GroupBox of control GroupBox2 was not a loaded control class.
+Line 457: Class XtremeSuiteControls.ComboBox of control Cmb_LogFrm was not a loaded control class.
+Line 471: Class XtremeSuiteControls.DateTimePicker of control DT_LogFrm was not a loaded control class.
+Line 482: Class XtremeSuiteControls.PushButton of control cmdManual was not a loaded control class.
+Line 505: Class XtremeSuiteControls.PushButton of control cmdManual was not a loaded control class.
+Line 528: Class XtremeSuiteControls.PushButton of control cmdManual was not a loaded control class.
+Line 551: Class XtremeSuiteControls.PushButton of control cmdManual was not a loaded control class.
+Line 574: Class XtremeSuiteControls.ComboBox of control Cmb_LogFrm was not a loaded control class.
+Line 588: Class XtremeSuiteControls.ComboBox of control Cmb_LogFrm was not a loaded control class.
+Line 602: Class XtremeSuiteControls.ComboBox of control Cmb_LogFrm was not a loaded control class.
+Line 616: Class XtremeSuiteControls.ComboBox of control Cmb_LogFrm was not a loaded control class.
+Line 775: Class XtremeSuiteControls.ComboBox of control CmbFilter was not a loaded control class.
+Line 793: Class XtremeSuiteControls.DateTimePicker of control DFilter was not a loaded control class.
+Line 807: Class XtremeSuiteControls.PushButton of control cmdFilterProcess was not a loaded control class.
+Line 823: Class XtremeSuiteControls.ComboBox of control CmbFilter was not a loaded control class.
+Line 859: Class XtremeSuiteControls.PushButton of control cmdRptProcess was not a loaded control class.
+Line 875: Class XtremeSuiteControls.PushButton of control cmdRptProcess was not a loaded control class.
+Line 891: Class XtremeSuiteControls.PushButton of control cmdRptProcess was not a loaded control class.
+Line 907: Class XtremeSuiteControls.DateTimePicker of control DFilter was not a loaded control class.
+Line 921: Class XtremeSuiteControls.ComboBox of control CmbFilter was not a loaded control class.
+Line 939: Class XtremeSuiteControls.DateTimePicker of control DFilter was not a loaded control class.
+Line 953: Class XtremeSuiteControls.PushButton of control cmdFilterProcess was not a loaded control class.
+Line 969: Class XtremeSuiteControls.ComboBox of control CmbFilter was not a loaded control class.
+Line 987: Class XtremeSuiteControls.DateTimePicker of control DFilter was not a loaded control class.
+Line 1001: Class XtremeSuiteControls.ComboBox of control CmbFilter was not a loaded control class.
+Line 1019: Class XtremeSuiteControls.DateTimePicker of control DFilter was not a loaded control class.
+Line 1033: Class XtremeSuiteControls.PushButton of control cmdFilterProcess was not a loaded control class.
+Line 1049: Class XtremeSuiteControls.ComboBox of control CmbFilter was not a loaded control class.
+Line 1067: Class XtremeSuiteControls.PushButton of control cmdFilterProcess was not a loaded control class.
+Line 1084: Class XtremeSuiteControls.PushButton of control cmdProcess was not a loaded control class.
+Line 1100: Class XtremeSuiteControls.GroupBox of control GroupBox6 was not a loaded control class.
+Line 1112: Class XtremeSuiteControls.PushButton of control cmdProcess was not a loaded control class.
+Line 1126: Class XtremeSuiteControls.PushButton of control cmdProcess was not a loaded control class.
+Line 1140: Class XtremeSuiteControls.PushButton of control cmdProcess was not a loaded control class.
+Line 1154: Class XtremeSuiteControls.PushButton of control cmdProcess was not a loaded control class.
+Line 1169: Class XtremeSuiteControls.PushButton of control cmdProcess was not a loaded control class.
+Line 35: The property name _Version in GroupBox5 is invalid.
+Line 36: The property name _ExtentX in GroupBox5 is invalid.
+Line 37: The property name _ExtentY in GroupBox5 is invalid.
+Line 38: The property name _StockProps in GroupBox5 is invalid.
+Line 39: The property name Caption in GroupBox5 is invalid.
+Line 50: The property name UseVisualStyle in GroupBox5 is invalid.
+Line 58: The property name _Version in GlobalCmb is invalid.
+Line 59: The property name _ExtentX in GlobalCmb is invalid.
+Line 60: The property name _ExtentY in GlobalCmb is invalid.
+Line 61: The property name _StockProps in GlobalCmb is invalid.
+Line 63: The property name Text in GlobalCmb is invalid.
+Line 72: The property name _Version in GlobalCmb is invalid.
+Line 73: The property name _ExtentX in GlobalCmb is invalid.
+Line 74: The property name _ExtentY in GlobalCmb is invalid.
+Line 75: The property name _StockProps in GlobalCmb is invalid.
+Line 77: The property name Text in GlobalCmb is invalid.
+Line 128: The property name _Version in GroupBox4 is invalid.
+Line 129: The property name _ExtentX in GroupBox4 is invalid.
+Line 130: The property name _ExtentY in GroupBox4 is invalid.
+Line 131: The property name _StockProps in GroupBox4 is invalid.
+Line 132: The property name Caption in GroupBox4 is invalid.
+Line 133: The property name UseVisualStyle in GroupBox4 is invalid.
+Line 141: The property name _Version in GroupBox1 is invalid.
+Line 142: The property name _ExtentX in GroupBox1 is invalid.
+Line 143: The property name _ExtentY in GroupBox1 is invalid.
+Line 144: The property name _StockProps in GroupBox1 is invalid.
+Line 145: The property name UseVisualStyle in GroupBox1 is invalid.
+Line 152: The property name _Version in GroupBox3 is invalid.
+Line 153: The property name _ExtentX in GroupBox3 is invalid.
+Line 154: The property name _ExtentY in GroupBox3 is invalid.
+Line 155: The property name _StockProps in GroupBox3 is invalid.
+Line 156: The property name Caption in GroupBox3 is invalid.
+Line 167: The property name UseVisualStyle in GroupBox3 is invalid.
+Line 175: The property name _Version in Tgl is invalid.
+Line 176: The property name _ExtentX in Tgl is invalid.
+Line 177: The property name _ExtentY in Tgl is invalid.
+Line 178: The property name _StockProps in Tgl is invalid.
+Line 187: The property name _Version in Tgl is invalid.
+Line 188: The property name _ExtentX in Tgl is invalid.
+Line 189: The property name _ExtentY in Tgl is invalid.
+Line 190: The property name _StockProps in Tgl is invalid.
+Line 261: The property name _Version in cmdProcess is invalid.
+Line 262: The property name _ExtentX in cmdProcess is invalid.
+Line 263: The property name _ExtentY in cmdProcess is invalid.
+Line 264: The property name _StockProps in cmdProcess is invalid.
+Line 265: The property name Caption in cmdProcess is invalid.
+Line 254: Property Appearance in cmdProcess could not be set.
+Line 275: The property name _Version in CmbAbsensi is invalid.
+Line 276: The property name _ExtentX in CmbAbsensi is invalid.
+Line 277: The property name _ExtentY in CmbAbsensi is invalid.
+Line 278: The property name _StockProps in CmbAbsensi is invalid.
+Line 280: The property name Sorted in CmbAbsensi is invalid.
+Line 281: The property name AutoComplete in CmbAbsensi is invalid.
+Line 282: The property name DropDownWidth in CmbAbsensi is invalid.
+Line 291: The property name _Version in CmbAbsensi is invalid.
+Line 292: The property name _ExtentX in CmbAbsensi is invalid.
+Line 293: The property name _ExtentY in CmbAbsensi is invalid.
+Line 294: The property name _StockProps in CmbAbsensi is invalid.
+Line 296: The property name Sorted in CmbAbsensi is invalid.
+Line 297: The property name AutoComplete in CmbAbsensi is invalid.
+Line 298: The property name DropDownWidth in CmbAbsensi is invalid.
+Line 351: The property name _Version in TabControl1 is invalid.
+Line 352: The property name _ExtentX in TabControl1 is invalid.
+Line 353: The property name _ExtentY in TabControl1 is invalid.
+Line 354: The property name _StockProps in TabControl1 is invalid.
+Line 365: The property name Color in TabControl1 is invalid.
+Line 366: The property name PaintManager.BoldSelected in TabControl1 is invalid.
+Line 367: The property name PaintManager.ShowIcons in TabControl1 is invalid.
+Line 368: The property name PaintManager.FixedTabWidth in TabControl1 is invalid.
+Line 369: The property name PaintManager.MaxTabWidth in TabControl1 is invalid.
+Line 370: The property name PaintManager.MinTabWidth in TabControl1 is invalid.
+Line 371: The property name PaintManager.ControlMargin in TabControl1 is invalid.
+Line 372: The property name ItemCount in TabControl1 is invalid.
+Line 373: The property name SelectedItem in TabControl1 is invalid.
+Line 374: The property name Item(0).Caption in TabControl1 is invalid.
+Line 375: The property name Item(0).ControlCount in TabControl1 is invalid.
+Line 376: The property name Item(0).Control(0) in TabControl1 is invalid.
+Line 377: The property name Item(0).Control(1) in TabControl1 is invalid.
+Line 378: The property name Item(0).Control(2) in TabControl1 is invalid.
+Line 379: The property name Item(0).Control(3) in TabControl1 is invalid.
+Line 380: The property name Item(0).Control(4) in TabControl1 is invalid.
+Line 381: The property name Item(0).Control(5) in TabControl1 is invalid.
+Line 382: The property name Item(0).Control(6) in TabControl1 is invalid.
+Line 383: The property name Item(0).Control(7) in TabControl1 is invalid.
+Line 384: The property name Item(1).Caption in TabControl1 is invalid.
+Line 385: The property name Item(1).ControlCount in TabControl1 is invalid.
+Line 386: The property name Item(1).Control(0) in TabControl1 is invalid.
+Line 387: The property name Item(1).Control(1) in TabControl1 is invalid.
+Line 388: The property name Item(2).Caption in TabControl1 is invalid.
+Line 389: The property name Item(2).ControlCount in TabControl1 is invalid.
+Line 390: The property name Item(2).Control(0) in TabControl1 is invalid.
+Line 391: The property name Item(2).Control(1) in TabControl1 is invalid.
+Line 392: The property name Item(2).Control(2) in TabControl1 is invalid.
+Line 393: The property name Item(2).Control(3) in TabControl1 is invalid.
+Line 394: The property name Item(2).Control(4) in TabControl1 is invalid.
+Line 395: The property name Item(2).Control(5) in TabControl1 is invalid.
+Line 396: The property name Item(2).Control(6) in TabControl1 is invalid.
+Line 397: The property name Item(2).Control(7) in TabControl1 is invalid.
+Line 398: The property name Item(3).Caption in TabControl1 is invalid.
+Line 399: The property name Item(3).ControlCount in TabControl1 is invalid.
+Line 400: The property name Item(3).Control(0) in TabControl1 is invalid.
+Line 401: The property name Item(3).Control(1) in TabControl1 is invalid.
+Line 402: The property name Item(3).Control(2) in TabControl1 is invalid.
+Line 403: The property name Item(3).Control(3) in TabControl1 is invalid.
+Line 404: The property name Item(3).Control(4) in TabControl1 is invalid.
+Line 405: The property name Item(3).Control(5) in TabControl1 is invalid.
+Line 406: The property name Item(3).Control(6) in TabControl1 is invalid.
+Line 407: The property name Item(3).Control(7) in TabControl1 is invalid.
+Line 345: Property Appearance in TabControl1 could not be set.
+Line 415: The property name _Version in ProgressBar1 is invalid.
+Line 416: The property name _ExtentX in ProgressBar1 is invalid.
+Line 417: The property name _ExtentY in ProgressBar1 is invalid.
+Line 418: The property name _StockProps in ProgressBar1 is invalid.
+Line 429: The property name _Version in DFilter is invalid.
+Line 430: The property name _ExtentX in DFilter is invalid.
+Line 431: The property name _ExtentY in DFilter is invalid.
+Line 432: The property name _StockProps in DFilter is invalid.
+Line 440: The property name _Version in GroupBox2 is invalid.
+Line 441: The property name _ExtentX in GroupBox2 is invalid.
+Line 442: The property name _ExtentY in GroupBox2 is invalid.
+Line 443: The property name _StockProps in GroupBox2 is invalid.
+Line 444: The property name Caption in GroupBox2 is invalid.
+Line 434: Property Appearance in GroupBox2 could not be set.
+Line 464: The property name _Version in Cmb_LogFrm is invalid.
+Line 465: The property name _ExtentX in Cmb_LogFrm is invalid.
+Line 466: The property name _ExtentY in Cmb_LogFrm is invalid.
+Line 467: The property name _StockProps in Cmb_LogFrm is invalid.
+Line 469: The property name Text in Cmb_LogFrm is invalid.
+Line 477: The property name _Version in DT_LogFrm is invalid.
+Line 478: The property name _ExtentX in DT_LogFrm is invalid.
+Line 479: The property name _ExtentY in DT_LogFrm is invalid.
+Line 480: The property name _StockProps in DT_LogFrm is invalid.
+Line 489: The property name _Version in cmdManual is invalid.
+Line 490: The property name _ExtentX in cmdManual is invalid.
+Line 491: The property name _ExtentY in cmdManual is invalid.
+Line 492: The property name _StockProps in cmdManual is invalid.
+Line 493: The property name Caption in cmdManual is invalid.
+Line 482: Property Appearance in cmdManual could not be set.
+Line 512: The property name _Version in cmdManual is invalid.
+Line 513: The property name _ExtentX in cmdManual is invalid.
+Line 514: The property name _ExtentY in cmdManual is invalid.
+Line 515: The property name _StockProps in cmdManual is invalid.
+Line 516: The property name Caption in cmdManual is invalid.
+Line 505: Property Appearance in cmdManual could not be set.
+Line 535: The property name _Version in cmdManual is invalid.
+Line 536: The property name _ExtentX in cmdManual is invalid.
+Line 537: The property name _ExtentY in cmdManual is invalid.
+Line 538: The property name _StockProps in cmdManual is invalid.
+Line 539: The property name Caption in cmdManual is invalid.
+Line 528: Property Appearance in cmdManual could not be set.
+Line 558: The property name _Version in cmdManual is invalid.
+Line 559: The property name _ExtentX in cmdManual is invalid.
+Line 560: The property name _ExtentY in cmdManual is invalid.
+Line 561: The property name _StockProps in cmdManual is invalid.
+Line 562: The property name Caption in cmdManual is invalid.
+Line 551: Property Appearance in cmdManual could not be set.
+Line 581: The property name _Version in Cmb_LogFrm is invalid.
+Line 582: The property name _ExtentX in Cmb_LogFrm is invalid.
+Line 583: The property name _ExtentY in Cmb_LogFrm is invalid.
+Line 584: The property name _StockProps in Cmb_LogFrm is invalid.
+Line 586: The property name Text in Cmb_LogFrm is invalid.
+Line 595: The property name _Version in Cmb_LogFrm is invalid.
+Line 596: The property name _ExtentX in Cmb_LogFrm is invalid.
+Line 597: The property name _ExtentY in Cmb_LogFrm is invalid.
+Line 598: The property name _StockProps in Cmb_LogFrm is invalid.
+Line 600: The property name Text in Cmb_LogFrm is invalid.
+Line 609: The property name _Version in Cmb_LogFrm is invalid.
+Line 610: The property name _ExtentX in Cmb_LogFrm is invalid.
+Line 611: The property name _ExtentY in Cmb_LogFrm is invalid.
+Line 612: The property name _StockProps in Cmb_LogFrm is invalid.
+Line 614: The property name Text in Cmb_LogFrm is invalid.
+Line 623: The property name _Version in Cmb_LogFrm is invalid.
+Line 624: The property name _ExtentX in Cmb_LogFrm is invalid.
+Line 625: The property name _ExtentY in Cmb_LogFrm is invalid.
+Line 626: The property name _StockProps in Cmb_LogFrm is invalid.
+Line 628: The property name Text in Cmb_LogFrm is invalid.
+Line 784: The property name _Version in CmbFilter is invalid.
+Line 785: The property name _ExtentX in CmbFilter is invalid.
+Line 786: The property name _ExtentY in CmbFilter is invalid.
+Line 787: The property name _StockProps in CmbFilter is invalid.
+Line 789: The property name Sorted in CmbFilter is invalid.
+Line 790: The property name AutoComplete in CmbFilter is invalid.
+Line 791: The property name DropDownWidth in CmbFilter is invalid.
+Line 802: The property name _Version in DFilter is invalid.
+Line 803: The property name _ExtentX in DFilter is invalid.
+Line 804: The property name _ExtentY in DFilter is invalid.
+Line 805: The property name _StockProps in DFilter is invalid.
+Line 816: The property name _Version in cmdFilterProcess is invalid.
+Line 817: The property name _ExtentX in cmdFilterProcess is invalid.
+Line 818: The property name _ExtentY in cmdFilterProcess is invalid.
+Line 819: The property name _StockProps in cmdFilterProcess is invalid.
+Line 820: The property name Caption in cmdFilterProcess is invalid.
+Line 807: Property Appearance in cmdFilterProcess could not be set.
+Line 832: The property name _Version in CmbFilter is invalid.
+Line 833: The property name _ExtentX in CmbFilter is invalid.
+Line 834: The property name _ExtentY in CmbFilter is invalid.
+Line 835: The property name _StockProps in CmbFilter is invalid.
+Line 837: The property name Sorted in CmbFilter is invalid.
+Line 838: The property name AutoComplete in CmbFilter is invalid.
+Line 839: The property name DropDownWidth in CmbFilter is invalid.
+Line 868: The property name _Version in cmdRptProcess is invalid.
+Line 869: The property name _ExtentX in cmdRptProcess is invalid.
+Line 870: The property name _ExtentY in cmdRptProcess is invalid.
+Line 871: The property name _StockProps in cmdRptProcess is invalid.
+Line 872: The property name Caption in cmdRptProcess is invalid.
+Line 859: Property Appearance in cmdRptProcess could not be set.
+Line 884: The property name _Version in cmdRptProcess is invalid.
+Line 885: The property name _ExtentX in cmdRptProcess is invalid.
+Line 886: The property name _ExtentY in cmdRptProcess is invalid.
+Line 887: The property name _StockProps in cmdRptProcess is invalid.
+Line 888: The property name Caption in cmdRptProcess is invalid.
+Line 875: Property Appearance in cmdRptProcess could not be set.
+Line 900: The property name _Version in cmdRptProcess is invalid.
+Line 901: The property name _ExtentX in cmdRptProcess is invalid.
+Line 902: The property name _ExtentY in cmdRptProcess is invalid.
+Line 903: The property name _StockProps in cmdRptProcess is invalid.
+Line 904: The property name Caption in cmdRptProcess is invalid.
+Line 891: Property Appearance in cmdRptProcess could not be set.
+Line 916: The property name _Version in DFilter is invalid.
+Line 917: The property name _ExtentX in DFilter is invalid.
+Line 918: The property name _ExtentY in DFilter is invalid.
+Line 919: The property name _StockProps in DFilter is invalid.
+Line 930: The property name _Version in CmbFilter is invalid.
+Line 931: The property name _ExtentX in CmbFilter is invalid.
+Line 932: The property name _ExtentY in CmbFilter is invalid.
+Line 933: The property name _StockProps in CmbFilter is invalid.
+Line 935: The property name Sorted in CmbFilter is invalid.
+Line 936: The property name AutoComplete in CmbFilter is invalid.
+Line 937: The property name DropDownWidth in CmbFilter is invalid.
+Line 948: The property name _Version in DFilter is invalid.
+Line 949: The property name _ExtentX in DFilter is invalid.
+Line 950: The property name _ExtentY in DFilter is invalid.
+Line 951: The property name _StockProps in DFilter is invalid.
+Line 962: The property name _Version in cmdFilterProcess is invalid.
+Line 963: The property name _ExtentX in cmdFilterProcess is invalid.
+Line 964: The property name _ExtentY in cmdFilterProcess is invalid.
+Line 965: The property name _StockProps in cmdFilterProcess is invalid.
+Line 966: The property name Caption in cmdFilterProcess is invalid.
+Line 953: Property Appearance in cmdFilterProcess could not be set.
+Line 978: The property name _Version in CmbFilter is invalid.
+Line 979: The property name _ExtentX in CmbFilter is invalid.
+Line 980: The property name _ExtentY in CmbFilter is invalid.
+Line 981: The property name _StockProps in CmbFilter is invalid.
+Line 983: The property name Sorted in CmbFilter is invalid.
+Line 984: The property name AutoComplete in CmbFilter is invalid.
+Line 985: The property name DropDownWidth in CmbFilter is invalid.
+Line 996: The property name _Version in DFilter is invalid.
+Line 997: The property name _ExtentX in DFilter is invalid.
+Line 998: The property name _ExtentY in DFilter is invalid.
+Line 999: The property name _StockProps in DFilter is invalid.
+Line 1010: The property name _Version in CmbFilter is invalid.
+Line 1011: The property name _ExtentX in CmbFilter is invalid.
+Line 1012: The property name _ExtentY in CmbFilter is invalid.
+Line 1013: The property name _StockProps in CmbFilter is invalid.
+Line 1015: The property name Sorted in CmbFilter is invalid.
+Line 1016: The property name AutoComplete in CmbFilter is invalid.
+Line 1017: The property name DropDownWidth in CmbFilter is invalid.
+Line 1028: The property name _Version in DFilter is invalid.
+Line 1029: The property name _ExtentX in DFilter is invalid.
+Line 1030: The property name _ExtentY in DFilter is invalid.
+Line 1031: The property name _StockProps in DFilter is invalid.
+Line 1042: The property name _Version in cmdFilterProcess is invalid.
+Line 1043: The property name _ExtentX in cmdFilterProcess is invalid.
+Line 1044: The property name _ExtentY in cmdFilterProcess is invalid.
+Line 1045: The property name _StockProps in cmdFilterProcess is invalid.
+Line 1046: The property name Caption in cmdFilterProcess is invalid.
+Line 1033: Property Appearance in cmdFilterProcess could not be set.
+Line 1058: The property name _Version in CmbFilter is invalid.
+Line 1059: The property name _ExtentX in CmbFilter is invalid.
+Line 1060: The property name _ExtentY in CmbFilter is invalid.
+Line 1061: The property name _StockProps in CmbFilter is invalid.
+Line 1063: The property name Sorted in CmbFilter is invalid.
+Line 1064: The property name AutoComplete in CmbFilter is invalid.
+Line 1065: The property name DropDownWidth in CmbFilter is invalid.
+Line 1076: The property name _Version in cmdFilterProcess is invalid.
+Line 1077: The property name _ExtentX in cmdFilterProcess is invalid.
+Line 1078: The property name _ExtentY in cmdFilterProcess is invalid.
+Line 1079: The property name _StockProps in cmdFilterProcess is invalid.
+Line 1080: The property name Caption in cmdFilterProcess is invalid.
+Line 1067: Property Appearance in cmdFilterProcess could not be set.
+Line 1092: The property name _Version in cmdProcess is invalid.
+Line 1093: The property name _ExtentX in cmdProcess is invalid.
+Line 1094: The property name _ExtentY in cmdProcess is invalid.
+Line 1095: The property name _StockProps in cmdProcess is invalid.
+Line 1096: The property name Caption in cmdProcess is invalid.
+Line 1084: Property Appearance in cmdProcess could not be set.
+Line 1106: The property name _Version in GroupBox6 is invalid.
+Line 1107: The property name _ExtentX in GroupBox6 is invalid.
+Line 1108: The property name _ExtentY in GroupBox6 is invalid.
+Line 1109: The property name _StockProps in GroupBox6 is invalid.
+Line 1110: The property name Caption in GroupBox6 is invalid.
+Line 1111: The property name UseVisualStyle in GroupBox6 is invalid.
+Line 1119: The property name _Version in cmdProcess is invalid.
+Line 1120: The property name _ExtentX in cmdProcess is invalid.
+Line 1121: The property name _ExtentY in cmdProcess is invalid.
+Line 1122: The property name _StockProps in cmdProcess is invalid.
+Line 1123: The property name Caption in cmdProcess is invalid.
+Line 1112: Property Appearance in cmdProcess could not be set.
+Line 1133: The property name _Version in cmdProcess is invalid.
+Line 1134: The property name _ExtentX in cmdProcess is invalid.
+Line 1135: The property name _ExtentY in cmdProcess is invalid.
+Line 1136: The property name _StockProps in cmdProcess is invalid.
+Line 1137: The property name Caption in cmdProcess is invalid.
+Line 1126: Property Appearance in cmdProcess could not be set.
+Line 1147: The property name _Version in cmdProcess is invalid.
+Line 1148: The property name _ExtentX in cmdProcess is invalid.
+Line 1149: The property name _ExtentY in cmdProcess is invalid.
+Line 1150: The property name _StockProps in cmdProcess is invalid.
+Line 1151: The property name Caption in cmdProcess is invalid.
+Line 1140: Property Appearance in cmdProcess could not be set.
+Line 1161: The property name _Version in cmdProcess is invalid.
+Line 1162: The property name _ExtentX in cmdProcess is invalid.
+Line 1163: The property name _ExtentY in cmdProcess is invalid.
+Line 1164: The property name _StockProps in cmdProcess is invalid.
+Line 1165: The property name Caption in cmdProcess is invalid.
+Line 1154: Property Appearance in cmdProcess could not be set.
+Line 1176: The property name _Version in cmdProcess is invalid.
+Line 1177: The property name _ExtentX in cmdProcess is invalid.
+Line 1178: The property name _ExtentY in cmdProcess is invalid.
+Line 1179: The property name _StockProps in cmdProcess is invalid.
+Line 1180: The property name Caption in cmdProcess is invalid.
+Line 1169: Property Appearance in cmdProcess could not be set.

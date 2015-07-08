@@ -1,0 +1,161 @@
+/*
+Navicat MySQL Data Transfer
+
+Source Server         : LocalhostMySQL
+Source Server Version : 50532
+Source Host           : localhost:3306
+Source Database       : menu
+
+Target Server Type    : MYSQL
+Target Server Version : 50532
+File Encoding         : 65001
+
+Date: 2014-05-06 23:10:31
+*/
+
+SET FOREIGN_KEY_CHECKS=0;
+
+-- ----------------------------
+-- Table structure for `st01a`
+-- ----------------------------
+DROP TABLE IF EXISTS `st01a`;
+CREATE TABLE `st01a` (
+  `USER_ID` varchar(15) NOT NULL,
+  `USR_PASS` varchar(100) NOT NULL,
+  `USR_NM` varchar(200) NOT NULL,
+  `USR_OFF` tinyint(1) NOT NULL,
+  `KAR_ID` varchar(100) NOT NULL,
+  `DEP_ID` int(11) NOT NULL,
+  `JABATAN_ID` int(11) NOT NULL,
+  PRIMARY KEY (`USER_ID`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+-- ----------------------------
+-- Records of st01a
+-- ----------------------------
+INSERT INTO `st01a` VALUES ('ROOT', 'asd123', 'ADMINISTRATOR', '0', '001', '2', '2');
+INSERT INTO `st01a` VALUES ('endny', 'asd123', 'ENDNY', '0', '', '0', '0');
+INSERT INTO `st01a` VALUES ('lingling', 'asd123', 'LING LING', '0', '', '0', '0');
+
+-- ----------------------------
+-- Table structure for `st01b`
+-- ----------------------------
+DROP TABLE IF EXISTS `st01b`;
+CREATE TABLE `st01b` (
+  `MN_ID` int(5) NOT NULL AUTO_INCREMENT,
+  `MN_PRN` varchar(5) NOT NULL,
+  `MN_NM` varchar(50) NOT NULL,
+  `MN_ORD` varchar(10) NOT NULL,
+  `MN_FILE` varchar(100) NOT NULL,
+  `MN_OFF` varchar(1) NOT NULL,
+  `TMPL_ID` int(100) NOT NULL,
+  PRIMARY KEY (`MN_ID`)
+) ENGINE=MyISAM AUTO_INCREMENT=313 DEFAULT CHARSET=latin1;
+
+-- ----------------------------
+-- Records of st01b
+-- ----------------------------
+INSERT INTO `st01b` VALUES ('1', '0', 'Home', 'A', '', '', '0');
+INSERT INTO `st01b` VALUES ('2', '0', 'Basic', 'B', '', '', '0');
+INSERT INTO `st01b` VALUES ('3', '0', 'Transaksi', 'C', '', '', '0');
+INSERT INTO `st01b` VALUES ('4', '0', 'Report', 'D', '', '', '0');
+INSERT INTO `st01b` VALUES ('5', '0', 'Maintenance', 'E', '', '', '0');
+INSERT INTO `st01b` VALUES ('6', '0', 'Admin', 'F', '', '', '0');
+INSERT INTO `st01b` VALUES ('50', '1', 'Informasi ', 'A.1', '', '', '0');
+INSERT INTO `st01b` VALUES ('51', '2', 'Periode', 'B.1', '', '', '0');
+INSERT INTO `st01b` VALUES ('52', '2', 'Setup GL', 'B.2', '', '', '0');
+INSERT INTO `st01b` VALUES ('53', '2', 'Kurs', 'B.3', '', '', '0');
+INSERT INTO `st01b` VALUES ('54', '2', 'Akun', 'B.4', '', '', '0');
+INSERT INTO `st01b` VALUES ('55', '2', 'Cost', 'B.5', '', '', '0');
+INSERT INTO `st01b` VALUES ('56', '3', 'Jurnal Umum', 'C.1', '', '', '0');
+INSERT INTO `st01b` VALUES ('57', '3', 'Posting', 'C.2', '', '', '0');
+INSERT INTO `st01b` VALUES ('58', '3', 'Tutup Tahun', 'C.3', '', '', '0');
+INSERT INTO `st01b` VALUES ('59', '4', 'Analize Report', 'D.1', '', '', '0');
+INSERT INTO `st01b` VALUES ('60', '4', 'Accounting Report ', 'D.2', '', '', '0');
+INSERT INTO `st01b` VALUES ('61', '5', 'Import', 'E.1', '', '', '0');
+INSERT INTO `st01b` VALUES ('62', '6', 'User', 'F.1', '', '', '0');
+INSERT INTO `st01b` VALUES ('63', '6', 'User Permission', 'F.2', '', '', '0');
+INSERT INTO `st01b` VALUES ('30', '30', 'Option', '', '', '', '0');
+INSERT INTO `st01b` VALUES ('31', '30', 'Swich User', '', '', '', '0');
+INSERT INTO `st01b` VALUES ('32', '30', 'Log Off', '', '', '', '0');
+INSERT INTO `st01b` VALUES ('64', '5', 'Log System', 'E.2', '', '', '0');
+
+-- ----------------------------
+-- Table structure for `st01c`
+-- ----------------------------
+DROP TABLE IF EXISTS `st01c`;
+CREATE TABLE `st01c` (
+  `PRMS_ID` varchar(50) NOT NULL,
+  `MN_ID` int(25) NOT NULL,
+  `MN_SHW` int(11) NOT NULL,
+  `MN_RD` int(11) NOT NULL,
+  `MN_WR` int(11) NOT NULL,
+  `MN_DEL` int(11) NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+-- ----------------------------
+-- Records of st01c
+-- ----------------------------
+INSERT INTO `st01c` VALUES ('ROOT', '1', '1', '1', '1', '0');
+INSERT INTO `st01c` VALUES ('ROOT', '2', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('ROOT', '3', '1', '1', '1', '0');
+INSERT INTO `st01c` VALUES ('ROOT', '4', '1', '1', '1', '0');
+INSERT INTO `st01c` VALUES ('ROOT', '5', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('ROOT', '6', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('ROOT', '50', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('ROOT', '51', '1', '1', '1', '0');
+INSERT INTO `st01c` VALUES ('ROOT', '52', '1', '1', '1', '0');
+INSERT INTO `st01c` VALUES ('ROOT', '53', '1', '1', '1', '0');
+INSERT INTO `st01c` VALUES ('ROOT', '54', '1', '1', '1', '0');
+INSERT INTO `st01c` VALUES ('ROOT', '55', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('ROOT', '56', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('ROOT', '57', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('ROOT', '58', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('ROOT', '59', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('ROOT', '60', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('ROOT', '61', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('ROOT', '62', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('ROOT', '63', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('ROOT', '64', '1', '1', '1', '1');
+INSERT INTO `st01c` VALUES ('lingling', '1', '1', '1', '1', '0');
+INSERT INTO `st01c` VALUES ('lingling', '2', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('lingling', '3', '1', '1', '1', '0');
+INSERT INTO `st01c` VALUES ('lingling', '4', '1', '1', '1', '0');
+INSERT INTO `st01c` VALUES ('lingling', '5', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('lingling', '6', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('lingling', '50', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('lingling', '51', '1', '1', '1', '0');
+INSERT INTO `st01c` VALUES ('lingling', '52', '1', '1', '1', '0');
+INSERT INTO `st01c` VALUES ('lingling', '53', '1', '1', '1', '0');
+INSERT INTO `st01c` VALUES ('lingling', '54', '1', '1', '1', '0');
+INSERT INTO `st01c` VALUES ('lingling', '55', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('lingling', '56', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('lingling', '57', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('lingling', '58', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('lingling', '59', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('lingling', '60', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('lingling', '61', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('lingling', '62', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('lingling', '63', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('lingling', '64', '1', '1', '1', '1');
+INSERT INTO `st01c` VALUES ('endny', '1', '1', '1', '1', '0');
+INSERT INTO `st01c` VALUES ('endny', '2', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('endny', '3', '1', '1', '1', '0');
+INSERT INTO `st01c` VALUES ('endny', '4', '1', '1', '1', '0');
+INSERT INTO `st01c` VALUES ('endny', '5', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('endny', '6', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('endny', '50', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('endny', '51', '1', '1', '1', '0');
+INSERT INTO `st01c` VALUES ('endny', '52', '1', '1', '1', '0');
+INSERT INTO `st01c` VALUES ('endny', '53', '1', '1', '1', '0');
+INSERT INTO `st01c` VALUES ('endny', '54', '1', '1', '1', '0');
+INSERT INTO `st01c` VALUES ('endny', '55', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('endny', '56', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('endny', '57', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('endny', '58', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('endny', '59', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('endny', '60', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('endny', '61', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('endny', '62', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('endny', '63', '1', '1', '0', '0');
+INSERT INTO `st01c` VALUES ('endny', '64', '1', '1', '1', '1');
